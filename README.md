@@ -1,83 +1,95 @@
-# 👨‍💻 Prathamesh Mawale | Robotics & Cloud Engineer
+# Prathamesh Mawale  
+Robotics Engineer | ROS | Embedded Systems | Cloud-Integrated Automation
 
-Welcome! I'm a Robotics and Automation graduate from DY Patil College of Engineering. My passion lies in building intelligent robotic systems and integrating them with modern cloud technologies for scalable, real-world applications.
-
----
-
-## 🔧 What I Do
-
-### 🤖 Robotics & Embedded Systems
-- Hands-on experience with **ROS (Robot Operating System)**
-- Built robots for:
-  - ✅ Warehouse management & automation
-  - ✅ Pick-and-place operations
-  - ✅ Remote guidance and control
-- Skilled in:
-  - Microcontroller programming (Arduino, ESP32)
-  - Sensor integration & actuator control
-  - Cross-device communication (UART, I2C, SPI)
-  - Real-time system design
-
-### ☁️ Cloud Engineering for Robotics
-- Leveraging **cloud platforms** like **AWS**, **Azure**, and **GCP** for:
-  - Remote fleet monitoring & diagnostics
-  - Real-time data streaming & processing
-  - Over-the-air (OTA) updates and system scaling
-- Tools & services:
-  - EC2, S3, IoT Core, Lambda, Firebase, Azure IoT Hub
-  - MQTT, REST APIs, WebSockets
-
-### 🖥️ Backend & DevOps
-- Building scalable APIs and control dashboards with:
-  - **Node.js**, **Flask**, **Django**
-  - **Linux**, **Docker**, **Git**, **GitHub Actions**
-- CI/CD pipelines for robotic deployments
+Robotics and Automation graduate with hands-on experience building mobile robots, robotic arms, and cloud-connected control systems. Strong focus on practical engineering, system reliability, and production-oriented robotics using ROS and Linux-based stacks.
 
 ---
 
-## 📂 Featured Projects
+## Core Competencies
 
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| 🏭 **Warehouse Bot** | Autonomous warehouse assistant for logistics | ROS, LiDAR, Arduino, AWS IoT |
-| 🦾 **Robotic Arm** | Pick-and-place arm with web-based control | ESP32, Flask, Firebase |
-| 📡 **Remote Guidance System** | Long-range control system using cloud + microcontroller | MQTT, Node.js, Azure |
-| 📊 **Fleet Dashboard** | Realtime dashboard for multiple robots | Django, REST API, GCP |
+### Robotics & ROS
+- ROS / ROS2 node development, launch systems, and package structuring  
+- Differential drive robots, navigation basics, sensor integration  
+- LiDAR, ultrasonic sensors, encoders, IMU integration  
+- URDF/Xacro modeling and simulation workflows  
+- Real-time debugging on Linux systems  
 
----
+### Embedded & Control
+- Microcontrollers: Arduino, ESP32, STM32  
+- Motor drivers, actuators, and low-level interfacing  
+- Communication protocols: UART, I2C, SPI  
+- Deterministic control loops and hardware bring-up  
 
-## 📫 Let's Connect
-
-I'm always open to collaboration, freelance projects, or discussions in robotics, backend systems, or cloud-enabled automation.
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-mawale)
-- 📬 Reach me: prathameshmawale@gmail.com
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**: Python, C++, JavaScript  
-**Frameworks**: ROS,ROS2, Flask, Django, Node.js  
-**Cloud**: AWS, Azure, GCP  
-**Tools**: Git, GitHub, Docker, Linux, Firebase  
-**Microcontrollers**: Arduino, ESP32, STM32
+### Systems & Cloud (Applied, Not Theoretical)
+- Remote monitoring and command pipelines for robots  
+- MQTT-based telemetry and control  
+- Backend services for fleet visibility and diagnostics  
+- Dockerized services for deployment consistency  
 
 ---
 
-## 🤝 Open to
+## Selected Projects
 
-- 🔍 Internships & Full-time roles  
-- 🧠 Research collaborations  
-- 🔧 Freelance work in robotics or cloud backends
+### Warehouse Mobile Robot
+Autonomous assistant designed for structured indoor logistics environments.  
+- ROS-based navigation stack  
+- LiDAR and ultrasonic sensing  
+- Embedded motor control with Arduino  
+- Cloud telemetry for status monitoring  
+
+**Tech:** ROS, C++, Arduino, LiDAR, Linux
 
 ---
 
-Thanks for visiting! ⭐ Feel free to fork, contribute, or connect!
+### Pick-and-Place Robotic Arm
+Servo-driven robotic arm with remote command capability.  
+- Embedded control logic  
+- Web-triggered actions for testing and demos  
+- Focus on repeatability and mechanical simplicity  
 
+**Tech:** ESP32, Python, Flask
 
+---
 
-<!---
-pratham280/pratham280 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Remote Guidance & Control System
+Long-range robot command system designed for unreliable networks.  
+- MQTT-based messaging  
+- Stateless backend services  
+- Emphasis on robustness over UI complexity  
+
+**Tech:** MQTT, Node.js, Linux
+
+---
+
+## Engineering Philosophy
+
+- Prefer simple, debuggable systems over over-engineered abstractions  
+- Strong bias toward hardware-first validation  
+- Production constraints matter more than demos  
+- Documentation and reproducibility are part of the job  
+
+---
+
+## Toolchain
+
+- **Languages:** C++, Python, C  
+- **Frameworks:** ROS, ROS2  
+- **OS:** Linux (Ubuntu)  
+- **DevOps:** Docker, Git, GitHub Actions  
+- **Cloud Exposure:** AWS IoT, Azure IoT, GCP (applied use cases only)
+
+---
+
+## Availability
+
+Open to:
+- Robotics Engineer roles (ROS-focused)
+- Field robotics and automation teams
+- Early-stage startups building physical systems
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/prathamesh-mawale  
+Email: prathameshmawale@gmail.com
